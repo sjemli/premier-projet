@@ -20,6 +20,6 @@ public class AppTest {
     public void shouldReturn5Given2And3() {
         App app = new App();
 
-        assertTrue(app.addition(3, 2) == 6);
+        assertTrue(app.addition(3, 2) == 5);
     }
 }
